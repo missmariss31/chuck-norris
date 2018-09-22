@@ -1,0 +1,24 @@
+body {
+    text-align: center;
+    background-color: lightslategray;
+}
+
+header {
+    margin-top: 30px;
+    color: darkred;
+}
+
+p {
+    color: darkblue;
+}
+
+.get-joke {
+    margin: 10px 10px 30px;
+    border: none;
+    background-color: black;
+    color: white;
+    font-size: 24px;
+    cursor: pointer;
+    box-shadow: 2px 2px 5px 0px white;
+    border-radius: 4px;
+}
