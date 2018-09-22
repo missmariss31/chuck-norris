@@ -10,3 +10,5 @@
 4.  LOL!!
 
 Check out main.js to see where the magic happens.  Explore the [Chuck Norris API Page](https://api.chucknorris.io/) for more info.
+
+For more on the Javascript library, jQuery, go to [jQuery.com](https://jquery.com/)
