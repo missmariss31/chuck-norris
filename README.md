@@ -1,6 +1,6 @@
 # CHUCK NORRIS JOKE GENERATOR
 
-![Chuck Norris]("img/chuck.jpg")
+![Chuck Norris](img/chuck.jpg)
 
 ## HTML, CSS, Javascript, jQuery, and AJAX
 
